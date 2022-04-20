@@ -7,6 +7,18 @@ html,body{
 }
 
 h1{
-    color: red;
+    display: inline;
     text-align: center;
+    justify-content: center;
+    box-sizing: border-box;
+}
+.text1{
+    color: blue;
+}
+.text2{
+    color: green;
+}
+
+.text3{
+    color: brown;
 }
