@@ -7,10 +7,11 @@ html,body{
 }
 
 h1{
-    display: inline;
+    display: block;
     text-align: center;
-    justify-content: center;
-    box-sizing: border-box;
+   
+   
+    
 }
 .text1{
     color: blue;
